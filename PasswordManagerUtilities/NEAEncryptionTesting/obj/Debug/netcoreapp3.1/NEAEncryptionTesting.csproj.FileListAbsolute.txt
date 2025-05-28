@@ -1,0 +1,16 @@
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\bin\Debug\netcoreapp3.1\NEAEncryptionTesting.exe
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\bin\Debug\netcoreapp3.1\NEAEncryptionTesting.deps.json
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\bin\Debug\netcoreapp3.1\NEAEncryptionTesting.runtimeconfig.json
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\bin\Debug\netcoreapp3.1\NEAEncryptionTesting.runtimeconfig.dev.json
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\bin\Debug\netcoreapp3.1\NEAEncryptionTesting.dll
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\bin\Debug\netcoreapp3.1\NEAEncryptionTesting.pdb
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\obj\Debug\netcoreapp3.1\NEAEncryptionTesting.csprojAssemblyReference.cache
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\obj\Debug\netcoreapp3.1\NEAEncryptionTesting.AssemblyInfoInputs.cache
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\obj\Debug\netcoreapp3.1\NEAEncryptionTesting.AssemblyInfo.cs
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\obj\Debug\netcoreapp3.1\NEAEncryptionTesting.dll
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\obj\Debug\netcoreapp3.1\NEAEncryptionTesting.pdb
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\obj\Debug\netcoreapp3.1\NEAEncryptionTesting.Properties.Resources.resources
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\obj\Debug\netcoreapp3.1\NEAEncryptionTesting.csproj.GenerateResource.cache
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\bin\Debug\netcoreapp3.1\PasswordManagerUtilities.dll
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\bin\Debug\netcoreapp3.1\PasswordManagerUtilities.pdb
+N:\C#\PasswordManagerUtilities\NEAEncryptionTesting\obj\Debug\netcoreapp3.1\NEAEncryptionTesting.csproj.CopyComplete

@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "848f45d1-908c-4bec-8604-d1a033dcb499": {
+      "ProjectGuid": "848f45d1-908c-4bec-8604-d1a033dcb499",
+      "DisplayName": "ClientSoftware",
+      "ColorIndex": 0
+    },
+    "86e751dc-b569-4012-b873-a4118fb8b434": {
+      "ProjectGuid": "86e751dc-b569-4012-b873-a4118fb8b434",
+      "DisplayName": "ServerSoftware",
+      "ColorIndex": 1
+    },
+    "eb4f7b14-09aa-4736-8c84-bd5f2903946c": {
+      "ProjectGuid": "eb4f7b14-09aa-4736-8c84-bd5f2903946c",
+      "DisplayName": "PasswordManagerUtilities",
+      "ColorIndex": 2
+    },
+    "79993f50-da39-4c67-86ed-6fdb340fbf83": {
+      "ProjectGuid": "79993f50-da39-4c67-86ed-6fdb340fbf83",
+      "DisplayName": "VaultTest",
+      "ColorIndex": 3
+    },
+    "f82f223d-f7c1-4464-b8a1-d551c10bf70e": {
+      "ProjectGuid": "f82f223d-f7c1-4464-b8a1-d551c10bf70e",
+      "DisplayName": "RSA_4096_Test",
+      "ColorIndex": 4
+    },
+    "30d42f28-b6c0-45ac-99a0-bee9a97eb4c0": {
+      "ProjectGuid": "30d42f28-b6c0-45ac-99a0-bee9a97eb4c0",
+      "DisplayName": "MergeTest",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0cda693d-4ff7-4677-8def-8534fa38bc96": {
+      "ProjectGuid": "0cda693d-4ff7-4677-8def-8534fa38bc96",
+      "DisplayName": "ClientTest",
+      "ColorIndex": 6
+    },
+    "ed65cf1f-53ed-420a-868d-c7e25fdf304e": {
+      "ProjectGuid": "ed65cf1f-53ed-420a-868d-c7e25fdf304e",
+      "DisplayName": "AES_GCM_Test",
+      "ColorIndex": 7
+    },
+    "9cd91824-15b2-40c8-a694-106697830f23": {
+      "ProjectGuid": "9cd91824-15b2-40c8-a694-106697830f23",
+      "DisplayName": "NEA_CBC_Test",
+      "ColorIndex": 8
+    },
+    "cd2ffe4b-7148-401e-9a47-f403d07b50b7": {
+      "ProjectGuid": "cd2ffe4b-7148-401e-9a47-f403d07b50b7",
+      "DisplayName": "PBKDF2_Speed_Test",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
